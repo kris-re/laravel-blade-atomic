@@ -2,9 +2,9 @@
 
 namespace KrisRe\LaravelBladeAtomic;
 
+use KrisRe\LaravelBladeAtomic\Commands\LaravelBladeAtomicCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use KrisRe\LaravelBladeAtomic\Commands\LaravelBladeAtomicCommand;
 
 class LaravelBladeAtomicServiceProvider extends PackageServiceProvider
 {

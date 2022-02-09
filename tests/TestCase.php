@@ -3,8 +3,8 @@
 namespace KrisRe\LaravelBladeAtomic\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use KrisRe\LaravelBladeAtomic\LaravelBladeAtomicServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
